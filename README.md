@@ -1,4 +1,4 @@
-# Basics_TypeScript
+# Basics
 
 # Hello, World! Program in TypeScript
 
